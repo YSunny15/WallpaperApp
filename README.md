@@ -1,4 +1,4 @@
-# testapp
+# Wallpaper app
 
 A new Flutter project.
 
